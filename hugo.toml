@@ -1,0 +1,4 @@
+baseURL = 'https://pinotucana.github.io/'
+languageCode = 'en-us'
+title = '''Pino's Blog'''
+theme = 'ananke'

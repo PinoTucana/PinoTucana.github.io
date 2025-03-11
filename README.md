@@ -1,1 +1,1 @@
-# PinoTucana.github.io
+# [Blog](https://pinotucana.github.io)
